@@ -900,6 +900,8 @@ public:
 	FSK_Rb125Fd125,      ///< FSK, No Manchester, Rb = 125kbs,  Fd = 125kHz
 	FSK_Rb_512Fd2_5,     ///< FSK, No Manchester, Rb = 512bs,  Fd = 2.5kHz, for POCSAG compatibility
 	FSK_Rb_512Fd4_5,     ///< FSK, No Manchester, Rb = 512bs,  Fd = 4.5kHz, for POCSAG compatibility
+	FSK_Rb_1200Fd4_5,    ///< FSK, No Manchester, Rb = 1200bs,  Fd = 4.5kHz, for POCSAG compatibility
+	FSK_Rb_2400Fd4_5,    ///< FSK, No Manchester, Rb = 2400bs,  Fd = 4.5kHz, for POCSAG compatibility
 
 	GFSK_Rb2Fd5,         ///< GFSK, No Manchester, Rb = 2kbs,    Fd = 5kHz
 	GFSK_Rb2_4Fd36,      ///< GFSK, No Manchester, Rb = 2.4kbs,  Fd = 36kHz
